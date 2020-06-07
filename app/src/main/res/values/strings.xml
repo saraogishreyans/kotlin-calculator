@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kotlin_calculator</string>
+    <string name="stop">Stop Timer</string>
+    <string name="start">Start Game</string>
+    <string name="working">Started</string>
+    <string name="stopped">Stopped</string>
+    <string name="nextButton">NEXT</string>
+</resources>
